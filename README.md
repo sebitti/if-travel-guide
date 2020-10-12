@@ -4,7 +4,7 @@ With Vue.js, TailwindCSS and Firebase <br/>
 [ YouTube video URL link: ↴ ]
 
 <div align="left">
-  <a href="https://youtu.be/KHVUJQ4x6RY"><img src="https://i.ytimg.com/vi/KHVUJQ4x6RY/hqdefault.jpg" alt="Vue.js + TailwindCSS + Firebase - IF. Travel guide" style="object-fit:cover;width:500px;height:230px;"></a>
+  <a href="https://youtu.be/KHVUJQ4x6RY"><img src="https://i.ytimg.com/vi/KHVUJQ4x6RY/hqdefault.jpg" alt="Vue.js + TailwindCSS + Firebase - IF. Travel guide"></a>
 </div>
 
 <br/>
@@ -17,7 +17,7 @@ With Vue.js, TailwindCSS and Firebase <br/>
 2. If do not need to install a code editor, can run the project via the command line:
     - press the key combination: **Win** + **S** or **Win** + **R** and enter "**cmd**"
     - in the command line:
-      - if need to go for example to disk "D" → D:
+      - if need to go for example to disk "D" → **D:**
       - go to the **if-travel-guide** → **cd D:<pаth>\if-travel-guide**
       - enter the command → `yarn serve`
       - open the browser, go to the link (depending on your port settings): **http://localhost:8080/**
