@@ -1,0 +1,107 @@
+{
+  "header": {
+    "search": {
+      "title": "Search"
+    },
+    "favorite": {
+      "title": "Favorite",
+      "my_favorite": "My favorite",
+      "authorization": "Authorization",
+      "logout": "Logout"
+    },
+    "language": {
+      "eng": "English",
+      "ua": "Ukrainian"
+    }
+  },
+  "navbar": {
+    "city": {
+      "title": "city",
+      "events": {
+        "subtitle": "events",
+        "performances": "performances",
+        "festivals": "festivals",
+        "exhibitions": "exhibitions",
+        "concerts": "concerts",
+        "sports": "sports",
+        "conferences": "conferences",
+        "fairs": "fairs",
+        "shows_and_musicals": "shows and musicals",
+        "calendar_of_events": "calendar of events"
+      },
+      "relevant": {
+        "subtitle": "relevant",
+        "weekend_tips": "weekend tips",
+        "tips_of_the_month": "tips of the month",
+        "higlights": "higlights",
+        "new_and_fashion_trends": "new and fashion trends",
+        "must_see": "must see"
+      },
+      "seasons": {
+        "subtitle": "seasons",
+        "spring": "spring",
+        "summer": "summer",
+        "autumn": "autumn",
+        "winter": "winter"
+      }
+    },
+    "explore": {
+      "title": "explore",
+      "leisure": {
+        "subtitle": "leisure",
+        "historical_monuments_and_culture": "historical monuments and culture",
+        "museums_and_galleries": "museums and galleries",
+        "theaters_and_cinema": "theaters and cinema",
+        "parks": "parks",
+        "restaurants": "restaurants",
+        "entertainment": "entertainment",
+        "night_life": "night life",
+        "vocation": "vocation"
+      },
+      "plan_your_trip": {
+        "subtitle": "plan your trip",
+        "tickets_and_reservations": "tickets and reservations",
+        "tours": "tours",
+        "guides": "guides"
+      }
+    },
+    "stay": {
+      "title": "stay",
+      "overnight_stay_and_accommodation": {
+        "subtitle": "overnight stay and accommodation",
+        "hostels": "hostels",
+        "motels": "motels",
+        "hotels": "hotels",
+        "tourist_bases": "tourist bases",
+        "apartments_for_temporary_residence": "apartments for temporary residence"
+      },
+      "place_reservation": {
+        "subtitle": "place reservation",
+        "check_in": "check in",
+        "check_out": "check out",
+        "submit": "submit"
+      }
+    },
+    "dontWander": {
+      "title": "dont wander",
+      "travel_resources": {
+        "subtitle": "travel resources",
+        "basic_information": "basic information",
+        "official_tourist_cener": "official tourist cener",
+        "visa_center": "visa center",
+        "customs": "customs",
+        "consulates": "consulates",
+        "train_station": "train station",
+        "transport": "transport",
+        "internet_access": "internet access",
+        "weather": "weather"
+      },
+      "maps_and_guides": {
+        "subtitle": "maps and guides",
+        "map": "map",
+        "routes_around_the_city": "routes around the city",
+        "ivano_frankivsk_city_walk": "ivano-frankivsk. a city walk"
+      }
+    }
+  }
+}

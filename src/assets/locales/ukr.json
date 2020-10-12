@@ -1,0 +1,107 @@
+{
+  "header": {
+    "search": {
+      "title": "Пошук"
+    },
+    "favorite": {
+      "title": "Вподобані",
+      "my_favorite": "Мої уподобання",
+      "authorization": "Авторизуватися",
+      "logout": "Вийти"
+    },
+    "language": {
+      "eng": "Англійська",
+      "ua": "Українська"
+    }
+  },
+  "navbar": {
+    "city": {
+      "title": "місто",
+      "events": {
+        "subtitle": "події",
+        "performances": "вистави",
+        "festivals": "фестивалі",
+        "exhibitions": "виставки",
+        "concerts": "концерти",
+        "sports": "спорт",
+        "conferences": "конференції",
+        "fairs": "ярмарки",
+        "shows_and_musicals": "шоу та мюзикли",
+        "calendar_of_events": "календар подій"
+      },
+      "relevant": {
+        "subtitle": "актуальне",
+        "weekend_tips": "поради на вихідні",
+        "tips_of_the_month": "поради місяця",
+        "higlights": "основні моменти",
+        "new_and_fashion_trends": "нові та модні тенденції",
+        "must_see": "повинен побачити"
+      },
+      "seasons": {
+        "subtitle": "сезони",
+        "spring": "весна",
+        "summer": "літо",
+        "autumn": "осінь",
+        "winter": "зима"
+      }
+    },
+    "explore": {
+      "title": "досліджуй",
+      "leisure": {
+        "subtitle": "дозвілля",
+        "historical_monuments_and_culture": "пам'ятки історії та кульутри",
+        "museums_and_galleries": "музеї та галареї",
+        "theaters_and_cinema": "театри і кіно",
+        "parks": "парки",
+        "restaurants": "ресторани та заклади харчування",
+        "entertainment": "розваги",
+        "night_life": "нічне життя",
+        "vocation": "відпочинок"
+      },
+      "plan_your_trip": {
+        "subtitle": "плануй свою поїздку",
+        "tickets_and_reservations": "квитки та бронювання",
+        "tours": "тури",
+        "guides": "гіди"
+      }
+    },
+    "stay": {
+      "title": "залишайся",
+      "overnight_stay_and_accommodation": {
+        "subtitle": "нічліг та проживання",
+        "hostels": "хостели",
+        "motels": "мотелі",
+        "hotels": "готелі",
+        "tourist_bases": "туристичні бази",
+        "apartments_for_temporary_residence": "квартири для тимчасового проживання"
+      },
+      "place_reservation": {
+        "subtitle": "резервування місця",
+        "check_in": "зареєструватися",
+        "check_out": "виписатися",
+        "submit": "підтвердити"
+      }
+    },
+    "dontWander": {
+      "title": "не блукай",
+      "travel_resources": {
+        "subtitle": "ресурси мандрівника",
+        "basic_information": "основна інформація",
+        "official_tourist_cener": "офіційний туристичний центр",
+        "visa_center": "візові центри",
+        "customs": "митниця",
+        "consulates": "консульства",
+        "train_station": "вокзали",
+        "transport": "транспорт",
+        "internet_access": "доступ в інтернет",
+        "weather": "погода"
+      },
+      "maps_and_guides": {
+        "subtitle": "карти і путівники",
+        "map": "карта",
+        "routes_around_the_city": "маршрути по місту",
+        "ivano_frankivsk_city_walk": "івано-франківськ. місто-прогулянка"
+      }
+    }
+  }
+}

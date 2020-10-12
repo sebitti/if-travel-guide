@@ -1,0 +1,622 @@
+[
+  {
+    "title": "27 BookForum",
+    "path": "/City/Events/Performances",
+    "summary": "Події"
+  },
+  {
+    "title": "Фестиваль 'IF WEEKEND FEST'",
+    "path": "/City/Events/Festivals",
+    "summary": "Події"
+  },
+  {
+    "title": "5th Molokiya IF Half Marathon'",
+    "path": "/City/Events/Festivals",
+    "summary": "Події"
+  },
+  {
+    "title": "Street Food So Good. HAPPY B-DAY",
+    "path": "/City/Events/Festivals",
+    "summary": "Події"
+  },
+  {
+    "title": "Street Food So Good. Осінь",
+    "path": "/City/Events/Festivals",
+    "summary": "Події"
+  },
+  {
+    "title": "Виставка Уляни Нищук 'Сон Марії'",
+    "path": "/City/Events/Exhibitions",
+    "summary": "Події"
+  },
+  {
+    "title": "Виставка Антона Логова 'Вода'",
+    "path": "/City/Events/Exhibitions",
+    "summary": "Події"
+  },
+  {
+    "title": "FOALS",
+    "path": "/City/Events/Concerts",
+    "summary": "Події"
+  },
+  {
+    "title": "Беz обмежень. Великий стадыонний концерт",
+    "path": "/City/Events/Concerts",
+    "summary": "Події"
+  },
+  {
+    "title": "Keiko Matsui",
+    "path": "/City/Events/Concerts",
+    "summary": "Події"
+  },
+  {
+    "title": "Ярмарок 'Зимова казка'",
+    "path": "/City/Events/Fairs",
+    "summary": "Події"
+  },
+  {
+    "title": "Ярмарок 'Весняна феєрія'",
+    "path": "/City/Events/Fairs",
+    "summary": "Події"
+  },
+  {
+    "title": "Національний Балет Грузії 'СУХІШВІЛІ'",
+    "path": "City/Events/ShowsAndMusicals",
+    "summary": "Події"
+  },
+  {
+    "title": "Сергій Притула. Гумор-шоу 'Вар'яти'",
+    "path": "City/Events/ShowsAndMusicals",
+    "summary": "Події"
+  },
+  {
+    "title": "Кармен-сюїта",
+    "path": "City/Events/ShowsAndMusicals",
+    "summary": "Події"
+  },
+  {
+    "title": "Календар подій",
+    "path": "/City/Events/CalendarOfEvents",
+    "summary": "Події"
+  },
+  {
+    "title": "Як цікаво та корисно провести вихідні в Івано-Франківську. Огляд подій",
+    "path": "/City/Relevant/WeekendTips",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "Цікаві події другої половини січня в Івано-Франківську",
+    "path": "/City/Relevant/TipsOfTheMonth",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "Двері до іншого Івано-Франківська",
+    "path": "/City/Relevant/Highlights",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "У лісах Івано-Франківщини знайшли два досі невідомі архіви ОУН та УПА",
+    "path": "/City/Relevant/Highlights",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "Задля рекорду мер Івано-Франківська одягнув на голову паперове яблучко. Фото дня",
+    "path": "/City/Relevant/Highlights",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "Футбол, бійки, кримінал",
+    "path": "/City/Relevant/Highlights",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "В Івано-Франківську рятувальники всю ніч долали наслідки недільної негоди",
+    "path": "/City/Relevant/Highlights",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "Поховати вірус",
+    "path": "/City/Relevant/NewAndFashionTrends",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "Узаконити статус добровольця",
+    "path": "/City/Relevant/NewAndFashionTrends",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "Спадок бога Пана, або Трохи про паніку під час коронавірусу",
+    "path": "/City/Relevant/NewAndFashionTrends",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "Людство втрачає розум: несподіваний наслідок глобального потепління",
+    "path": "/City/Relevant/NewAndFashionTrends",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "Куди “мчить” магнітний полюс?",
+    "path": "/City/Relevant/NewAndFashionTrends",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "У природи немає поганої погоди",
+    "path": "/City/Relevant/NewAndFashionTrends",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "Повинен побачити",
+    "path": "/City/Relevant/MustSee",
+    "summary": "Актуальне"
+  },
+  {
+    "title": "Де в Івано-Франківську вже можна зустріти весну. ТОП-5 місць",
+    "path": "/City/Seasons/Spring",
+    "summary": "Сезони"
+  },
+  {
+    "title": "Літо настало: де у Івано-Франківську можна позасмагати, поплавати та відпочити",
+    "path": "/City/Seasons/Summer",
+    "summary": "Сезони"
+  },
+  {
+    "title": "Казкова осінь в Івано-Франківську",
+    "path": "/City/Seasons/Autumn",
+    "summary": "Сезони"
+  },
+  {
+    "title": "Що подивитись в Івано-Франківську? Прогулянка зимовим містом",
+    "path": "/City/Seasons/Winter",
+    "summary": "Сезони"
+  },
+  {
+    "title": "Просвіта/Prosvita",
+    "path": "/Explore/Leisure/HistoricalManumentsAndCulture",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Костел єзуїтів, палати духовенства та монастир/Jesuit church",
+    "path": "/Explore/Leisure/HistoricalManumentsAndCulture",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Темпель/Synagogue in Ivano-Frankivsk",
+    "path": "/Explore/Leisure/HistoricalManumentsAndCulture",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Обласний музично-драматичний театр/Ivan Franko Monument, Regional Music and Drama Theatre",
+    "path": "/Explore/Leisure/HistoricalManumentsAndCulture",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Пам’ятник Івану Франку",
+    "path": "/Explore/Leisure/HistoricalManumentsAndCulture",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Меморіальний сквер (Станиславівський некрополь)/Memorial Park (Stanyslaviv Necropolis)",
+    "path": "/Explore/Leisure/HistoricalManumentsAndCulture",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Музей родинних професій",
+    "path": "/Explore/Leisure/MuseumsAndGalleries",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Музей Небесної сотні",
+    "path": "/Explore/Leisure/MuseumsAndGalleries",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Музей мистецтв Прикарпаття",
+    "path": "/Explore/Leisure/MuseumsAndGalleries",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Літературний музей Прикарпаття",
+    "path": "/Explore/Leisure/MuseumsAndGalleries",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Музей визвольних змагань Прикарпатського краю",
+    "path": "/Explore/Leisure/MuseumsAndGalleries",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Меморіальний комплекс «Дем’янів Лаз»",
+    "path": "/Explore/Leisure/MuseumsAndGalleries",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Обласна філармонія",
+    "path": "/Explore/Leisure/TheatersAndCinema",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Обласний музично-драматичний театр ім. І. Франка",
+    "path": "/Explore/Leisure/TheatersAndCinema",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Івано-Франківський ляльковий театр ім. М. Підгірянки",
+    "path": "/Explore/Leisure/TheatersAndCinema",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Космос",
+    "path": "/Explore/Leisure/TheatersAndCinema",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Люм’єр",
+    "path": "/Explore/Leisure/TheatersAndCinema",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Сквер на вулиці Богдана Лепкого",
+    "path": "/Explore/Leisure/Parks",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Сквер на вулиці Лесі Українки",
+    "path": "/Explore/Leisure/Parks",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Сквер на вулиці Валовій",
+    "path": "/Explore/Leisure/Parks",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Привокзальний сквер",
+    "path": "/Explore/Leisure/Parks",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Парк воїнів-інтернаціоналістів",
+    "path": "/Explore/Leisure/Parks",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Міський парк культури ім. Т.Г. Шевченка",
+    "path": "/Explore/Leisure/Parks",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Urban Space 100",
+    "path": "/Explore/Leisure/Restourants",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Pizza Rotate",
+    "path": "/Explore/Leisure/Restourants",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Десятка",
+    "path": "/Explore/Leisure/Restourants",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Fabbrica",
+    "path": "/Explore/Leisure/Entertainment",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Клуб віртуальної реальності 'VORTEXVR'",
+    "path": "/Explore/Leisure/Entertainment",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Дитяча ігрова кімната 'Kingdom Kids",
+    "path": "/Explore/Leisure/Entertainment",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Клуб дитячого розвитку та дозвілля 'ПАЗЛИ'",
+    "path": "/Explore/Leisure/Entertainment",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Дитячий простір 'Марсік'",
+    "path": "/Explore/Leisure/Entertainment",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Atmosfera Club",
+    "path": "/Explore/Leisure/NightLife",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Клуб 'Роджер'",
+    "path": "/Explore/Leisure/NightLife",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Паб-клуб 'Буха-Rest'",
+    "path": "/Explore/Leisure/NightLife",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Grand America bar & kitchen",
+    "path": "/Explore/Leisure/NightLife",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Готель 'Горгани', Яблуниця",
+    "path": "/Explore/Leisure/Vocation",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Готель 'Рубель', Яремча",
+    "path": "/Explore/Leisure/Vocation",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "'Маєток Сокільське', Косів",
+    "path": "/Explore/Leisure/Vocation",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "Готель 'Villa Elena', Поляниця",
+    "path": "/Explore/Leisure/Vocation",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "VODA day&night club, Буковель",
+    "path": "/Explore/Leisure/Vocation",
+    "summary": "Дозвілля"
+  },
+  {
+    "title": "В гості до гуцулів",
+    "path": "/Explore/PlanYourTrip/Tours",
+    "summary": "Плануй свою поїздку"
+  },
+  {
+    "title": "Гори кличуть",
+    "path": "/Explore/PlanYourTrip/Tours",
+    "summary": "Плануй свою поїздку"
+  },
+  {
+    "title": "Два дні насолоди на Прикарпатті",
+    "path": "/Explore/PlanYourTrip/Tours",
+    "summary": "Плануй свою поїздку"
+  },
+  {
+    "title": "Незвідане Галицьке князівство",
+    "path": "/Explore/PlanYourTrip/Tours",
+    "summary": "Плануй свою поїздку"
+  },
+  {
+    "title": "Богдан Семків",
+    "path": "/Explore/PlanYourTrip/Guides",
+    "summary": "Плануй свою поїздку"
+  },
+  {
+    "title": "Роман Водвуд",
+    "path": "/Explore/PlanYourTrip/Guides",
+    "summary": "Плануй свою поїздку"
+  },
+  {
+    "title": "Олександр Хоменко",
+    "path": "/Explore/PlanYourTrip/Guides",
+    "summary": "Плануй свою поїздку"
+  },
+  {
+    "title": "Homer Hostel",
+    "path": "/Stay/Accommodation/Hostels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Хостел 'Центральний'",
+    "path": "/Stay/Accommodation/Hostels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Хостел 'MIF'",
+    "path": "/Stay/Accommodation/Hostels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Хостел 'Фонтуш'",
+    "path": "/Stay/Accommodation/Hostels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Хостел 'Пілігрим'",
+    "path": "/Stay/Accommodation/Hostels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Хостел 'Феномен'",
+    "path": "/Stay/Accommodation/Hostels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Хостел 'Dream+'",
+    "path": "/Stay/Accommodation/Hostels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Hostel 'Lime'",
+    "path": "/Stay/Accommodation/Hostels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Motel Sun Lit",
+    "path": "/Stay/Accommodation/Motels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Файний мотель",
+    "path": "/Stay/Accommodation/Motels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Пивовар",
+    "path": "/Stay/Accommodation/Motels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Tranzyt",
+    "path": "/Stay/Accommodation/Motels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Вітерець",
+    "path": "/Stay/Accommodation/Motels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Мотель 'Арго'",
+    "path": "/Stay/Accommodation/Motels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Мотель 'Villa Roma'",
+    "path": "/Stay/Accommodation/Motels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Мотель 'Палада'",
+    "path": "/Stay/Accommodation/Motels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Надія Готель",
+    "path": "/Stay/Accommodation/Hotels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Clubhouse",
+    "path": "/Stay/Accommodation/Hotels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Mon Ami Hotel",
+    "path": "/Stay/Accommodation/Hotels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Grand Hotel Roxolana",
+    "path": "/Stay/Accommodation/Hotels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Atrium Hotel",
+    "path": "/Stay/Accommodation/Hotels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Fontush Boutique Hotel",
+    "path": "/Stay/Accommodation/Hotels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Reikartz Park Hotel",
+    "path": "/Stay/Accommodation/Hotels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Cruce de Gustos",
+    "path": "/Stay/Accommodation/Hotels",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Люкс-апартаменти",
+    "path": "/Stay/Accommodation/ApartmentsForTemporaryResidence",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Апартаменти в центрі",
+    "path": "/Stay/Accommodation/ApartmentsForTemporaryResidence",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Family apartments",
+    "path": "/Stay/Accommodation/ApartmentsForTemporaryResidence",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Елітні апартаменти",
+    "path": "/Stay/Accommodation/ApartmentsForTemporaryResidence",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Сучасні апартаменти Бельведер в центрі міста",
+    "path": "/Stay/Accommodation/ApartmentsForTemporaryResidence",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Apartments in the center",
+    "path": "/Stay/Accommodation/ApartmentsForTemporaryResidence",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Елітна комфортна квартира",
+    "path": "/Stay/Accommodation/ApartmentsForTemporaryResidence",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Апартаменти в новому елітному ЖК Листопад",
+    "path": "/Stay/Accommodation/ApartmentsForTemporaryResidence",
+    "summary": "Нічліг та проживання"
+  },
+  {
+    "title": "Центр туристичної інформації",
+    "path": "/DontWander/TravelResources/OfficialTouristCenter",
+    "summary": "Ресурси мандрівника"
+  },
+  {
+    "title": "Візові центри",
+    "path": "/DontWander/TravelResources/VisaCenter",
+    "summary": "Ресурси мандрівника"
+  },
+  {
+    "title": "Митні пости Івано-Франківської митниці ДФС",
+    "path": "/DontWander/TravelResources/Customs",
+    "summary": "Ресурси мандрівника"
+  },
+  {
+    "title": "Консульства",
+    "path": "/DontWander/TravelResources/Consulates",
+    "summary": "Ресурси мандрівника"
+  },
+  {
+    "title": "Вокзал станції Івано-Франківськ",
+    "path": "/DontWander/TravelResources/TrainStations",
+    "summary": "Ресурси мандрівника"
+  },
+  {
+    "title": "Міський транспорт у Івано-Франківську",
+    "path": "/DontWander/TravelResources/Transports",
+    "summary": "Ресурси мандрівника"
+  },
+  {
+    "title": "Доступ в інтернет",
+    "path": "/DontWander/TravelResources/InternetAccess",
+    "summary": "Ресурси мандрівника"
+  },
+  {
+    "title": "Погода",
+    "path": "/DontWander/TravelResources/Weather",
+    "summary": "Ресурси мандрівника"
+  },
+  {
+    "title": "Карта Івано-Франківська",
+    "path": "/DontWander/MapsAndGuides/Map",
+    "summary": "Карти і путівники"
+  },
+  {
+    "title": "Маршрути по місту",
+    "path": "/DontWander/MapsAndGuides/RoutesAroundTheCity",
+    "summary": "Карти і путівники"
+  },
+  {
+    "title": "Івано-Франківськ. Місто-прогулянка",
+    "path": "/DontWander/MapsAndGuides/IvanoFrankivskCityWalk",
+    "summary": "Карти і путівники"
+  }
+]
