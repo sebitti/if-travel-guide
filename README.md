@@ -1,13 +1,7 @@
-Aplication «Ivano-Frankivsk. Travel guide» <br/>
-With Vue.js, TailwindCSS and Firebase <br/>
+Bachelor's thesis on the topic: web application «Ivano-Frankivsk. Travel guide» <br/>
+With Vue.js, TailwindCSS and Firebase
 
-[ YouTube video URL link: ↴ ]
-
-<div align="left">
-  <a href="https://youtu.be/KHVUJQ4x6RY"><img src="https://i.ytimg.com/vi/KHVUJQ4x6RY/hqdefault.jpg" alt="Vue.js + TailwindCSS + Firebase - IF. Travel guide"></a>
-</div>
-
-<br/>
+To see it in action go to [YouTube](https://youtu.be/KHVUJQ4x6RY)
 
 ### Project setup
 1. Start the code editor, open the **if-travel-guide** folder and enter the following commands in the terminal (start the terminal: **Сtrl** + **Shift** + **`** ):
@@ -26,3 +20,12 @@ With Vue.js, TailwindCSS and Firebase <br/>
 Compiles and minifies for production: `yarn build` <br/>
 Lints and fixes files: `yarn lint` <br/>
 Customize configuration: See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Screenshots
+<div align="center">
+  <img src="https://github.com/san616mofo/if-travel-guide/blob/master/screenshots/1.png?raw=true" height="300px" alt="img1"/>
+  <img src="https://github.com/san616mofo/if-travel-guide/blob/master/screenshots/2.png?raw=true" height="300px" alt="img2"/>
+  <img src="https://github.com/san616mofo/if-travel-guide/blob/master/screenshots/3.png?raw=true" height="300px" alt="img3"/>
+  <img src="https://github.com/san616mofo/if-travel-guide/blob/master/screenshots/4.png?raw=true" height="300px" alt="img4"/>
+  <img src="https://github.com/san616mofo/if-travel-guide/blob/master/screenshots/5.png?raw=true" height="300px" alt="img5"/>
+</div>
